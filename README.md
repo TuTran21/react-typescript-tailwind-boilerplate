@@ -1,8 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This is a scaffolder of React app with:
+ 1. TailwindCSS
+ 2. React-redux
+ 3. Redux-toolkit
+ 4. React-query
+ ## Available Scripts
 
 In the project directory, you can run:
 
